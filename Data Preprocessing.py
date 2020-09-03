@@ -59,7 +59,5 @@ process_data(df_valid, data_type='validation')
 
 
 
-train, wheat_data/images/train
-val, wheat_data/images/validation
-nc, 1
-names, ["wheat"]
+
+
