@@ -7,3 +7,4 @@
  2. Then I opened a YAML file and write the path of the train and validation data. I also written total number of class
  3. Finally I run this program using terminal. 
  
+To run this model write on terminal as same given in run_the_model image
