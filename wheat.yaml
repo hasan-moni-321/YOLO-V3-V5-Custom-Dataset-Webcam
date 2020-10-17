@@ -1,5 +1,0 @@
-
-train: /home/hasan/Downloads/wheat_data/images/train
-val: /home/hasan/Downloads/wheat_data/images/validation
-nc: 1
-names: ["wheat"]
